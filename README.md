@@ -94,6 +94,16 @@ to answer the project's research question.
 
 ---
 
+
+## Sample Output
+
+![Genre Ratings](images/genre_ratings.png)
+
+![Popularity vs Rating](images/popularity_vs_rating.png)
+
+---
+
+
 ## Skills Demonstrated
 
 * Data Gathering
